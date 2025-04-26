@@ -14,7 +14,7 @@ const AppStore = () => {
 							data-aos="fade-up"
 							data-aos-duration="400"
 							className='space-y-6 max-w-xl mx-auto'>
-							<h1 className='text-2xl text-center sm:text-left sm:text-4xl font-semibold dark:text-gray-400 text-gray-700'>Foodie is Available for Android and IOS</h1>
+							<h1 className='text-2xl text-center sm:text-left sm:text-4xl font-semibold dark:text-gray-400 text-gray-700'>Foodie is Available for <span className='block font-bold'>Android and IOS</span></h1>
 							<div className='flex flex-wrap justify-center sm:justify-start items-center gap-4'>
 								<a href="#" className='mt-4'>
 									<img src={PlayStoreImg} alt='playstore'

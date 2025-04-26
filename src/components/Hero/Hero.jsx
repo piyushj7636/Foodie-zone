@@ -47,7 +47,7 @@ const Hero = () => {
 						<h1 className='text-5xl sm:text-6xl dark:text-white/85 lg:text-7xl font-bold'>
 							Welcome to the <span className='font-extrabold'>Foodie</span> Zone
 						</h1>
-						<p className='text-sm text-white/75'>
+						<p className='text-sm dark:text-white/75 text-black/40'>
 							Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta eaque minima et praesentium excepturi natus hic totam voluptatibus recusandae, omnis facere illo nemo cupiditate, accusantium accusamus suscipit laudantium eum mollitia.
 						</p>
 						<div>

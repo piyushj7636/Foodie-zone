@@ -23,7 +23,7 @@ const Banner = () => {
 							/>
 						</div>
 						{/* text-content section */}
-						<div className='flex flex-col justify-center items-center gap-6 sm:pt-0 mr-10'>
+						<div className='flex flex-col justify-center items-center gap-6 sm:pt-0'>
 							<h1 className='text-3xl sm:text-4xl font-bold dark:text-white/65'>
 								Lorem ipsum dolor
 							</h1>

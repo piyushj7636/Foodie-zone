@@ -11,7 +11,7 @@ const Navbar = () => {
 				<div className='flex justify-between items-center'>
 					<div>
 						<a href="#" className='flex items-center gap-2 text-2xl sm:text-3xl font-bold'>
-							<img src='/food_logo.png' alt='Foodie Zone' className='w-15' /> Foodie
+							<img src='/food_logo.png' alt='Foodie Zone' className='w-16' /> Foodie
 						</a>
 					</div>
 					<div className='flex items-center gap-4'>
