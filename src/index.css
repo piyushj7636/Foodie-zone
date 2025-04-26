@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+	themes: light, cupcake, synthwave;
+}
+
+@theme{
+	--color-yellow-primary: #ffc001;
+	--color-yellow-secondary: #ff9c01;
+	--color-day-button: #f0f0f0;
+	--color-night-button: #333;
+	--container-padding: 1rem;
+	--container-padding-sm: 3rem;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
